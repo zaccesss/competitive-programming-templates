@@ -58,6 +58,18 @@ The goal is to reduce the time between opening a new problem and writing the fir
 
 ---
 
+## Tooling
+
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" alt="Git icon" /> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" alt="GitHub icon" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" alt="VS Code icon" /> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="65" alt="JetBrains icon" /> |
+| :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|                                                     **Git**                                                     |                                            **GitHub**                                             |                                                        **VS Code**                                                        |                                                         **JetBrains**                                                          |
+
+</div>
+
+---
+
 ## Structure
 
 <details>
