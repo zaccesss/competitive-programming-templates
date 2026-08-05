@@ -75,6 +75,9 @@ The goal is to reduce the time between opening a new problem and writing the fir
 
 ## Structure
 
+> [!NOTE]
+> Each language folder also gets a gitignored `build/` or equivalent output directory at runtime, not shown in the tree below since git never tracks empty directories.
+
 <details>
 <summary><b>Click to expand the directory tree</b></summary>
 
