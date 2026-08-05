@@ -12,9 +12,12 @@
   <a href="mailto:code@isaacadjei.me">
     <img src="https://img.shields.io/badge/Email-Contact-ff6f61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License badge" />
+  </a>
 </p>
 
-This repository contains reusable starter templates for solving competitive programming problems across multiple languages. Each template is a minimal, clean scaffold designed to remove setup friction and let you focus on problem solving from the first line.
+This repository contains reusable starter templates for solving competitive programming problems across multiple languages. Each template is a minimal, clean scaffold designed to remove setup friction and let the solver focus on the problem from the first line of code.
 
 **12 languages. One consistent structure. Zero setup overhead.**
 
@@ -22,37 +25,37 @@ This repository contains reusable starter templates for solving competitive prog
 
 ## Overview
 
-Templates are the foundation of a consistent competitive programming workflow. Rather than recreating boilerplate every session, each language folder provides a ready-to-use starting point that matches the structure used in the main competitive-programming repository.
+Templates are the foundation of a consistent competitive programming workflow. Rather than recreating boilerplate every session, each language folder provides a ready-to-use starting point that matches the structure used in the main [competitive-programming](https://github.com/zaccesss/competitive-programming) repository.
 
-Every template is kept intentionally minimal. No unnecessary abstractions, no framework-specific patterns and no generated noise. Just clean source files that are ready to copy and solve.
+Every template is kept intentionally minimal. No unnecessary abstractions, no framework-specific patterns and no generated noise, just clean source files ready to copy and solve.
 
 ---
 
-## Templates Purpose
+## What each template provides
 
-Each language folder provides:
+Every language folder contains:
 
 - a hello world reference file to verify the environment works
 - a neutral starter entry file to begin solving from immediately
 - a language-specific `.gitignore` for common generated output
 - a local `README.md` with build or run instructions
-- build placeholders where compiled languages require them
+- a `build/` placeholder for languages that compile to a binary
 
 The goal is to reduce the time between opening a new problem and writing the first meaningful line of code.
 
 ---
 
-## Supported Languages
+## Supported languages
 
 <div align="center">
 
 | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" alt="Python icon" /> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" alt="C++ icon" /> | <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" alt="Java icon" /> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" alt="JavaScript icon" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" alt="TypeScript icon" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="65" alt="Go icon" /> |
-| :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-|                                            **Python**                                             |                                           **C++**                                           |                                           **Java**                                            |                                          **JavaScript**                                           |                                          **TypeScript**                                           |                                                    **Go**                                                    |
+| :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+|                                            **Python**                                             |                                           **C++**                                            |                                           **Java**                                              |                                          **JavaScript**                                            |                                          **TypeScript**                                             |                                                    **Go**                                                    |
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="65" alt="Rust icon" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" alt="C icon" /> | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" alt="C sharp icon" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="65" alt="Kotlin icon" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="65" alt="Swift icon" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" alt="PHP icon" /> |
-| :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-|                                                      **Rust**                                                      |                                                   **C**                                                   |                                               **C#**                                               |                                                        **Kotlin**                                                        |                                                       **Swift**                                                       |                                                     **PHP**                                                     |
+| :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+|                                                      **Rust**                                                       |                                                  **C**                                                  |                                                 **C#**                                                  |                                                        **Kotlin**                                                       |                                                       **Swift**                                                       |                                                     **PHP**                                                        |
 
 </div>
 
@@ -63,8 +66,8 @@ The goal is to reduce the time between opening a new problem and writing the fir
 <div align="center">
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" alt="Git icon" /> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" alt="GitHub icon" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" alt="VS Code icon" /> | <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="65" alt="JetBrains icon" /> |
-| :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-|                                                     **Git**                                                     |                                            **GitHub**                                             |                                                        **VS Code**                                                        |                                                         **JetBrains**                                                          |
+| :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                                                     **Git**                                                       |                                              **GitHub**                                               |                                                        **VS Code**                                                        |                                                         **JetBrains**                                                        |
 
 </div>
 
@@ -144,8 +147,8 @@ competitive-programming-templates/
 
 ## Usage
 
-1. Navigate to the language folder that matches your target language.
-2. Copy the contents into your solution folder or use `main.*` as your starting file.
+1. Navigate to the language folder that matches the target language.
+2. Copy the contents into a solution folder or use `main.*` as the starting file.
 3. Follow the language-specific `README.md` for build and run instructions.
 4. Start solving.
 
@@ -153,7 +156,7 @@ Each `main.*` file is intentionally blank or minimal so it can be used as a neut
 
 ---
 
-## Why This Exists
+## Why this exists
 
 - Removes repeated setup time across problems and sessions.
 - Keeps template quality consistent across all twelve languages.
@@ -163,32 +166,19 @@ Each `main.*` file is intentionally blank or minimal so it can be used as a neut
 
 ---
 
+## Contact and support
+
+Open an [issue](https://github.com/zaccesss/competitive-programming-templates/issues) in this repository for questions or bugs.
+
+Reach Isaac Adjei directly at [code@isaacadjei.me](mailto:code@isaacadjei.me) or via the [website contact page](https://isaacadjei.me/contact).
+
+---
+
 <div align="center">
 
-<br />
-
-Made with 💻 by [Isaac Adjei](https://isaacadjei.me)
-
-<br />
+Made by [Isaac Adjei](https://isaacadjei.me)
 
 [![isaacadjei.me](https://img.shields.io/badge/isaacadjei.me-000000?style=for-the-badge)](https://isaacadjei.me)
 [![zacess.com](https://img.shields.io/badge/zacess.com-000000?style=for-the-badge)](https://zacess.com)
 
-<br />
-
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" alt="Footer banner" />
-</p>
-
-
-## Contact and Support
-
-Open an [issue](https://github.com/zaccesss/competitive-programming-templates/issues) in this repository for questions or bugs.
-
-You can also reach me directly at [code@isaacadjei.me](mailto:code@isaacadjei.me) or via my [website contact page](https://isaacadjei.me/contact).
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
-</p>
