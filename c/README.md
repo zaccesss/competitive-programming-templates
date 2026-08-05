@@ -10,6 +10,9 @@ Starter files for C competitive programming solutions.
 
 ## Build And Run
 
+> [!NOTE]
+> Git does not track empty directories, so a fresh clone has no `build/` folder yet. Create it first with `mkdir -p build`.
+
 ```bash
 gcc main.c -o build/main
 ./build/main

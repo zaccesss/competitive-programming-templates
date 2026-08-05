@@ -9,6 +9,9 @@ Starter files for TypeScript competitive programming solutions.
 
 ## Run
 
+> [!TIP]
+> This folder ships no `package.json` and no bundled `ts-node`. Install it globally with `npm install -g ts-node typescript`, or run it through `npx ts-node main.ts` without installing anything globally.
+
 ```bash
 ts-node main.ts
 ```
