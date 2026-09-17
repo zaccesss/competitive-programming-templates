@@ -171,9 +171,13 @@ Each `main.*` file is intentionally blank or minimal so it can be used as a neut
 
 ## Contact and support
 
-Open an [issue](https://github.com/zaccesss/competitive-programming-templates/issues) in this repository for questions or bugs.
+Open an [issue](https://github.com/zaccesss/competitive-programming-templates/issues) in this repository for questions or bugs. See [SUPPORT.md](SUPPORT.md) for the full breakdown of where to go.
 
-Reach Isaac Adjei directly at [code@isaacadjei.me](mailto:code@isaacadjei.me) or via the [website contact page](https://isaacadjei.me/contact).
+> [!TIP]
+> Reach Isaac Adjei directly at [code@isaacadjei.me](mailto:code@isaacadjei.me) or via the [website contact page](https://isaacadjei.me/contact).
+
+> [!IMPORTANT]
+> For a security issue, follow [SECURITY.md](SECURITY.md) rather than posting publicly.
 
 ---
 
