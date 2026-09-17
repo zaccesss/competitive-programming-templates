@@ -2,20 +2,8 @@
 
 > Reusable starter templates for competitive programming across twelve languages. Clean scaffolds, consistent structure and fast setup for LeetCode, Codeforces and NeetCode.
 
-<p align="center">
-  <a href="https://isaacadjei.me">
-    <img src="https://img.shields.io/badge/Portfolio-isaacadjei.me-000000?style=for-the-badge&logo=googlechrome&logoColor=06ffa5" alt="Portfolio badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/isaacadjei">
-    <img src="https://img.shields.io/badge/LinkedIn-Isaac_Adjei-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="mailto:code@isaacadjei.me">
-    <img src="https://img.shields.io/badge/Email-Contact-ff6f61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License badge" />
-  </a>
-</p>
+[![Markdown Lint](https://github.com/zaccesss/competitive-programming-templates/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/competitive-programming-templates/actions/workflows/markdownlint.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This repository contains reusable starter templates for solving competitive programming problems across multiple languages. Each template is a minimal, clean scaffold designed to remove setup friction and let the solver focus on the problem from the first line of code.
 
@@ -181,11 +169,4 @@ Open an [issue](https://github.com/zaccesss/competitive-programming-templates/is
 
 ---
 
-<div align="center">
-
-Made by [Isaac Adjei](https://isaacadjei.me)
-
-[![isaacadjei.me](https://img.shields.io/badge/isaacadjei.me-000000?style=for-the-badge)](https://isaacadjei.me)
-[![zacess.com](https://img.shields.io/badge/zacess.com-000000?style=for-the-badge)](https://zacess.com)
-
-</div>
+Made by [Isaac Adjei](https://isaacadjei.me).
