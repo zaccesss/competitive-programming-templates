@@ -7,6 +7,8 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [0.0.1] - 2026-10-22
+
 ### Added
 
 - `CODEOWNERS`, `CODE_OF_CONDUCT.md`, `SECURITY.md` and `SUPPORT.md`, matching the rest of the fleet
