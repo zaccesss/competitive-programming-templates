@@ -3,7 +3,8 @@
 > Reusable starter templates for competitive programming across twelve languages. Clean scaffolds, consistent structure and fast setup for LeetCode, Codeforces and NeetCode.
 
 [![Markdown Lint](https://github.com/zaccesss/competitive-programming-templates/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/competitive-programming-templates/actions/workflows/markdownlint.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/zaccesss/competitive-programming-templates?label=release)](https://github.com/zaccesss/competitive-programming-templates/releases/latest)
+[![Licence: MIT](https://img.shields.io/badge/licence-MIT-green.svg)](LICENSE)
 
 This repository contains reusable starter templates for solving competitive programming problems across multiple languages. Each template is a minimal, clean scaffold designed to remove setup friction and let the solver focus on the problem from the first line of code.
 
@@ -162,7 +163,7 @@ Each `main.*` file is intentionally blank or minimal so it can be used as a neut
 Open an [issue](https://github.com/zaccesss/competitive-programming-templates/issues) in this repository for questions or bugs. See [SUPPORT.md](SUPPORT.md) for the full breakdown of where to go.
 
 > [!TIP]
-> Reach Isaac Adjei directly at [code@isaacadjei.me](mailto:code@isaacadjei.me) or via the [website contact page](https://isaacadjei.me/contact).
+> Reach me directly at [contact@isaacadjei.me](mailto:contact@isaacadjei.me) or via the [website contact page](https://isaacadjei.me/contact).
 
 > [!IMPORTANT]
 > For a security issue, follow [SECURITY.md](SECURITY.md) rather than posting publicly.
