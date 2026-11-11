@@ -7,6 +7,10 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Fixed
+
+- The README stack icons load from the icon project's own repository at a fixed commit. The old host refuses every request.
+
 ## [0.1.0] - 2026-11-03
 
 ### Added
